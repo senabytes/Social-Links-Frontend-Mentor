@@ -5,12 +5,14 @@ Apesar de ter usado mais classes do que o necessário no HTML e no CSS, essa pr�
 Talvez na próxima eu consiga deixar o código mais limpo ;)
 
 
-# 🖥️ Resultado final:
+## 🖥️ Resultado final:
 ![image](https://github.com/user-attachments/assets/8100cc5e-f8e9-4ba5-aaa1-ab7e36e7bf5d)
 
 
-# 🚀 Linguagens Praticadas nesse desafio:
+## 🚀 Linguagens Praticadas nesse desafio:
 - HTML
 - CSS
 
+# LIVE 
+- https://senabytes.github.io/Social-Links-Frontend-Mentor/
 
